@@ -1,0 +1,8 @@
+hello@gmail.com
+test123@yahoo.com
+user.name@gmail.com
+admin@outlook.com
+contact@gmail.com
+invalidemail@gmailcom
+support@gmail.org
+abc@gmail.com
