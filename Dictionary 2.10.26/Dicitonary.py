@@ -9,6 +9,12 @@
 # print(d.__len__())
 # print(d.popitem())
 # print(d.pop('c'))
-a= {'a':40,'b':30,'c':70,'d':80,'e':20}
-print(a)
-print(a.values())
+# a= {'a':40,'b':30,'c':70,'d':80,'e':20}
+# print(a)
+# print(a.values())
+
+
+student = {"name": "Rinku", "age": 20}
+print(student["name"],student["age"])      # Rinku
+student["age"] = 21         # value change
+student["city"] = "Indore"  # new item add

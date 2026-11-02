@@ -23,7 +23,7 @@ class User:
     def test_static_method():
         print('This is static method')
 
-
+#
 # Object 1
 u = User()
 u.first_name = 'abc'

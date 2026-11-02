@@ -1,7 +1,7 @@
 class Persion:
     def __init__(self):
         self.first_name = ''
-        self.l
+        self.last_name = ''
     def get_detials(self):
         print('persion information')
         print('First Name:-', self.first_name)

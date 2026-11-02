@@ -11,8 +11,8 @@ class BankAccount:
         print('Account Balance:-', self.balance)
         print('Account Number:-', self.account_number)
 
-    def display_balance():
-        print('Account Balance:-', self.balance)
+    def display_balance(self):
+        print('Account Balance:-','1000')
 
     @classmethod
     def display_bank_name(cls):
